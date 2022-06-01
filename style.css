@@ -1,0 +1,33 @@
+body{
+    font-family: cursive;
+    background-color: cornflowerblue;
+}
+.header_div{
+    background:bisque ;
+    color: darkslateblue;
+}
+.header_div p{
+    font-family: cursive;
+    color: cadetblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copiright-footer{
+    position:fixed;
+    color:darkslateblue;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    background-color:bisque;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
